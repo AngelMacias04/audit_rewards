@@ -1,0 +1,6 @@
+node_modules
+
+# my .env file
+.env
+
+data/
