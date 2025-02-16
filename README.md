@@ -12,6 +12,12 @@ the newest node version is recommended.
 set up your `.env` file according to the `.env.example`
 - Run `mv .env.example .env`, and update variables as needed.
 
+### Windows (wsl2): 
+- Should work with port 5000
+
+### Mac
+- Recommended to assign port 50000
+
 ## Step 4: Install chrome for puppeter.
 `npx puppeteer browsers install chrome`
 
